@@ -62,4 +62,4 @@ The notebook covers data preprocessing, exploratory data analysis, model trainin
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-churn-prediction.git
+   https://github.com/AditiAggarwal21/Netflix-Churn-AI-Model
